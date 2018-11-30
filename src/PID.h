@@ -16,6 +16,11 @@ public:
   double Kp;
   double Ki;
   double Kd;
+  
+  /*
+  * Previous Error
+  */
+  double prev_cte;
 
   /*
   * Constructor
