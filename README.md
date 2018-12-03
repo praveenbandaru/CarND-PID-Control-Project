@@ -48,6 +48,7 @@ The final parameters were [P: 0.16, I: 0.0006, D: 3.6].
 ### The vehicle must successfully drive a lap around the track.
 
 A short video with the final parameters is [here](https://www.youtube.com/watch?v=UB7Y2DgnFhE).
+
 [![PID Controller](https://img.youtube.com/vi/UB7Y2DgnFhE/0.jpg)](https://www.youtube.com/watch?v=UB7Y2DgnFhE)
 
 
